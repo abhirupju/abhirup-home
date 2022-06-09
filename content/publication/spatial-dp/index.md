@@ -3,9 +3,8 @@ abstract: Proposes private and efficient data structure to answer range queries 
 slides: ""
 url_pdf: "https://homepages.inf.ed.ac.uk/rsarkar/papers/range-privacy.pdf"
 publication_types:
-  - "2"
+  - "1"
 authors:
-  - Haotian Wang
   - Abhirup Ghosh
   - Jiaxin Ding
   - Rik Sarkar
