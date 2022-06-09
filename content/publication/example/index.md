@@ -4,7 +4,7 @@ abstract: Human mobility has a high diversity and mobility interventions that
   significantly reduce the infection while retaining high levels of social
   activity.
 slides: ""
-url_pdf: ""
+url_pdf: "https://www.nature.com/articles/s41598-021-87034-z"
 publication_types:
   - "2"
 authors:
@@ -34,9 +34,9 @@ image:
   focal_point: ""
   preview_only: false
   filename: covid-foursquare.png
-date: 2022-06-09T20:22:19.194Z
+date: 2021-04-08T20:22:19.194Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00.000Z
+publishDate: 2021-04-08T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
