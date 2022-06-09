@@ -6,7 +6,7 @@ abstract: Human mobility has a high diversity and mobility interventions that
 slides: ""
 url_pdf: ""
 publication_types:
-  - "1"
+  - "2"
 authors:
   - Haotian Wang
   - Abhirup Ghosh
@@ -16,11 +16,11 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: ""
+publication: Nature Scientific Reports
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: Nature Scientific Reports
+publication_short: ""
 url_source: ""
 url_video: ""
 title: Heterogeneous Interventions Reduce the Spread of Covid-19 in Simulations
