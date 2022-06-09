@@ -30,7 +30,7 @@ featured: true
 tags: []
 projects: []
 image:
-  placement: 2
+  placement: 1
   caption: "On Foursquare check-in data"
   focal_point: "Smart"
   preview_only: false
