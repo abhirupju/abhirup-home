@@ -22,7 +22,7 @@ url_dataset: ""
 url_project: ""
 publication_short: ""
 url_source: "https://github.com/SBUhaotian/Mobility_Contagion"
-url_video: "https://www.youtube.com/watch?v=o8H0AtsyHZ0&t=339s"
+url_video: "https://www.youtube.com/watch?v=o8H0AtsyHZ0&t"
 title: Heterogeneous Interventions Reduce the Spread of Covid-19 in Simulations
   on Real Mobility Data
 doi: https://www.nature.com/articles/s41598-021-87034-z
@@ -32,7 +32,7 @@ projects: []
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
   filename: covid-foursquare.png
 date: 2021-04-08T20:22:19.194Z
 url_slides: ""
