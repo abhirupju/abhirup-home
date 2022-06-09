@@ -4,7 +4,7 @@ abstract: Human mobility has a high diversity and mobility interventions that
   significantly reduce the infection while retaining high levels of social
   activity.
 slides: ""
-url_pdf: "https://www.nature.com/articles/s41598-021-87034-z"
+url_pdf: "https://www.nature.com/articles/s41598-021-87034-z.pdf"
 publication_types:
   - "2"
 authors:
@@ -21,8 +21,8 @@ summary: ""
 url_dataset: ""
 url_project: ""
 publication_short: ""
-url_source: ""
-url_video: ""
+url_source: "https://github.com/SBUhaotian/Mobility_Contagion"
+url_video: "https://www.youtube.com/watch?v=o8H0AtsyHZ0&t=339s"
 title: Heterogeneous Interventions Reduce the Spread of Covid-19 in Simulations
   on Real Mobility Data
 doi: https://www.nature.com/articles/s41598-021-87034-z
