@@ -28,6 +28,7 @@ featured: true
 tags:
   - Temporal
   - ParticleFilter
+slides: cikm2017.pptx
 image:
   filename: featured
   focal_point: Smart
