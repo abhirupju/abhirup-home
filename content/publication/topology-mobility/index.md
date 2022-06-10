@@ -1,22 +1,5 @@
 ---
-abstract: Analytic methods can be difficult to build and costly to train for
-mobility data. We show that information about the topology of
-the space and how mobile objects navigate the obstacles can be
-used to extract insights about mobility at larger distance scales. The
-main contribution of this paper is a topological signature that maps
-each trajectory to a relatively low dimensional Euclidean space,
-so that now they are amenable to standard analytic techniques.
-Data mining tasks: nearest neighbor search with locality sensitive
-hashing, clustering, regression, etc., work more efficiently in this
-signature space. We define the problem of mobility prediction at
-different distance scales, and show that with the signatures simple
-k nearest neighbor based regression perform accurate prediction.
-Experiments on multiple real datasets show that the framework using topological signatures is accurate on all tasks, and substantially
-more efficient than machine learning applied to raw data. Theoretical results show that the signatures contain enough topological
-information to reconstruct non-self-intersecting trajectories upto
-homotopy type. The construction of signatures is based on a differential form that can be generated in a distributed setting using local
-communication, and a signature can be locally and inexpensively
-updated and communicated by a mobile agent.
+abstract: Analytic methods can be difficult to build and costly to train for mobility data. We show that information about the topology of the space and how mobile objects navigate the obstacles can be used to extract insights about mobility at larger distance scales. The main contribution of this paper is a topological signature that maps each trajectory to a relatively low dimensional Euclidean space, so that now they are amenable to standard analytic techniques. Data mining tasks: nearest neighbor search with locality sensitive hashing, clustering, regression, etc., work more efficiently in this signature space. We define the problem of mobility prediction at different distance scales, and show that with the signatures simple k nearest neighbor based regression perform accurate prediction. Experiments on multiple real datasets show that the framework using topological signatures is accurate on all tasks, and substantially more efficient than machine learning applied to raw data. Theoretical results show that the signatures contain enough topological information to reconstruct non-self-intersecting trajectories upto homotopy type. The construction of signatures is based on a differential form that can be generated in a distributed setting using local communication, and a signature can be locally and inexpensively updated and communicated by a mobile agent.
 slides: ""
 url_pdf: https://homepages.inf.ed.ac.uk/rsarkar/papers/range-privacy.pdf
 publication_types:
