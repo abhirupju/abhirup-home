@@ -6,7 +6,7 @@ authors:
   - Abhirup Ghosh
   - Christopher Lucas
   - Rik Sarkar
-doi: https://dl.acm.org/doi/abs/10.1145/3132847.3132981
+doi: 10.1145/3132847.3132981
 publication: Conference on Information and Knowledge Management
 publication_short: CIKM
 abstract: Periodic phenomena are ubiquitous, but detecting and predicting
@@ -30,7 +30,7 @@ tags:
   - ParticleFilter
 slides: cikm2017.pptx
 image:
-  filename: featured
+  filename: ""
   focal_point: Smart
   preview_only: false
 summary: Particle filter-based periodicity detection method for signals with
