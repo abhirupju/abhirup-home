@@ -1,6 +1,7 @@
 ---
 title: Abhirup Ghosh
 role: Research Associate
+avatar_filename: profile3.jpg
 bio: My research interests include distributed machine learning, mobile
   computing and statistical privacy.
 interests:
