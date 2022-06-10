@@ -3,6 +3,7 @@ title: Topological Signatures For Fast Mobility Analysis
 publication_types:
   - "1"
 authors: []
+doi: https://dl.acm.org/doi/abs/10.1145/3274895.3274952
 publication: Proceedings of the 26th ACM SIGSPATIAL International Conference on
   Advances in Geographic Information Systems
 publication_short: SigSpatial
@@ -34,5 +35,8 @@ image:
   filename: ""
   focal_point: Smart
   preview_only: false
+summary: An efficient framework to map GPS trajectories to Euclidean vectors
+  using differential topology. This enables Euclidean machine learning tools for
+  the trajectories.
 date: 2022-06-10T08:43:59.668Z
 ---
