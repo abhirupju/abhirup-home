@@ -2,7 +2,10 @@
 title: Finding Periodic Discrete Events in Noisy Streams
 publication_types:
   - "1"
-authors: []
+authors:
+  - Abhirup Ghosh
+  - Christopher Lucas
+  - Rik Sarkar
 doi: https://dl.acm.org/doi/abs/10.1145/3132847.3132981
 publication: Conference on Information and Knowledge Management
 publication_short: CIKM
