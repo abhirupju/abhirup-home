@@ -30,11 +30,10 @@ featured: true
 tags: []
 projects: []
 image:
-  placement: 1
-  caption: "On Foursquare check-in data"
-  focal_point: "Smart"
+  caption: ""
+  focal_point: ""
   preview_only: false
-  filename: covid-foursquare.png
+  filename: null
 date: 2021-04-08T20:22:19.194Z
 url_slides: ""
 publishDate: 2021-04-08T00:00:00.000Z
