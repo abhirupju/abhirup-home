@@ -22,28 +22,28 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Senior Software Developement Engineer
+    company: Intel Inc.
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
+    company_logo: intel
+    location: Bangalore, India
+    date_start: '2011-08-01'
+    date_end: '2015-08-14'
     description: |2-
-        Responsibilities include:
+        Responsibilities included:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Deliver Bluetooth protocol stack for Intel Android tablet platforms
+        * Lead Intel’s first Bluetooth Low Energy protocol stack from ideation to productization
+        * Represent Intel in Bluetooth SIG to develop new protocols and to test interoperability across industries
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Associate
+    company: Imperial College London
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: imperial
+    location: London, UK
+    date_start: '2019-09-01'
+    date_end: '2020-09-01'
+    description: Spatial data management systems using Machine Learning 
 
 design:
   columns: '2'
