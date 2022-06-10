@@ -1,9 +1,9 @@
 ---
-abstract:
+abstract: Major interventions have been introduced worldwide to slow down the spread of the SARS-CoV-2 virus. Large scale lockdown of human movements are effective in reducing the spread, but they come at a cost of significantly limited societal functions. We show that natural human movements are statistically diverse, and the spread of the disease is significantly influenced by a small group of active individuals and gathering venues. We find that interventions focused on these most mobile individuals and popular venues reduce both the peak infection rate and the total infected population while retaining high social activity levels. These trends are seen consistently in simulations with real human mobility data of different scales, resolutions, and modalities from multiple cities across the world. The observation implies that compared to broad sweeping interventions, more heterogeneous strategies that are targeted based on the network effects in human mobility provide a better balance between pandemic control and regular social activities.
 slides: ""
-url_pdf:
+url_pdf: ""
 publication_types:
-  - "1"
+  - "2"
 authors:
   - Abhirup Ghosh
   - Benedek Rozemberczki
@@ -11,7 +11,7 @@ authors:
   - Rik Sarkar
 author_notes:
 publication: SigSpatial
-summary: An efficient framework to map trajectories to Euclidean vectors called signatures using differential topology. This enables Euclidean machine learning tools for the trajectories.
+summary: "An efficient framework to map trajectories to Euclidean vectors called signatures using differential topology. This enables Euclidean machine learning tools for the trajectories."
 url_dataset: ""
 url_project: ""
 publication_short: ""
