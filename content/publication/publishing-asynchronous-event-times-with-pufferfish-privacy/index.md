@@ -18,7 +18,7 @@ abstract: Publishing data from IoT devices raises concerns of leaking sensitive
   and app usage data. Our mechanisms preserve the statistical utility of event
   data which are suitable for aggregate queries.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
