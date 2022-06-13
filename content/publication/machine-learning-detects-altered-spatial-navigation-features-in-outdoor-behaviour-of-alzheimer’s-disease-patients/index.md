@@ -31,7 +31,7 @@ abstract: Impairment of navigation is one of the earliest symptoms of
   sensing of everyday behaviour may be used to deliver ecologically-valid
   digital biomarkers of AD pathophysiology.
 draft: false
-featured: false
+featured: true
 image:
   filename: featured
   focal_point: Smart
