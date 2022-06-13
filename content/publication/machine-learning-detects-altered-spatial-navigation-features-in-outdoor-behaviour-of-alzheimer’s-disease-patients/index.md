@@ -2,7 +2,7 @@
 title: Machine learning detects altered spatial navigation features in outdoor
   behaviour of Alzheimer’s disease patients
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Abhirup Ghosh
   - Vaisakh Puthusseryppady
@@ -32,6 +32,9 @@ abstract: Impairment of navigation is one of the earliest symptoms of
   digital biomarkers of AD pathophysiology.
 draft: false
 featured: true
+tags:
+  - mobility
+  - health
 image:
   filename: featured
   focal_point: Smart
