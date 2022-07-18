@@ -2,6 +2,14 @@
 title: Publishing Asynchronous Event Times with Pufferfish Privacy
 publication_types:
   - "1"
+authors:
+  - Jiaxin Ding
+  - Abhirup Ghosh
+  - Rik Sarkar
+  - Jie Gao
+author_notes:
+  - Equal contribution
+  - Equal contribution
 publication: International Conference on Distributed Computing in Sensor Systems
 publication_short: DCOSS
 abstract: Publishing data from IoT devices raises concerns of leaking sensitive
