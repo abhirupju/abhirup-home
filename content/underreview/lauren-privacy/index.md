@@ -3,10 +3,10 @@ title: Evaluating the Feasibility of Gossip Learning on Android Phones
 publication_types:
   - '3'
 authors:
-  - Issam Nedjaï
-  - Young D. Kwon
+  - Lauren Watson
   - Abhirup Ghosh
-  - Cecilia Mascolo
+  - Benedek
+  - Rik Sarkar
 abstract: >-
   Training machine learning models on sensing data from edge devices has become
   ubiquitous across application domains. A gossip learning system keeps the data
