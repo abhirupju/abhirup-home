@@ -41,7 +41,8 @@ title: Heterogeneous Interventions Reduce the Spread of Covid-19 in Simulations
   on Real Mobility Data
 doi: 10.1038/s41598-021-87034-z
 featured: true
-tags: []
+tags:
+  - Mobility;Health
 projects: []
 image:
   caption: ""
