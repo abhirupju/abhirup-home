@@ -29,8 +29,8 @@ abstract: >-
 draft: false
 featured: true
 tags:
-  - Spatial Graph
-  - Differential Privacy
+  - Temporal
+  - Statistical Privacy
 image:
   filename: featured
   focal_point: Smart

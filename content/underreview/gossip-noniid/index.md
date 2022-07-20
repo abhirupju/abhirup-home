@@ -1,7 +1,9 @@
 ---
-title: null
+title: >-
+  Data-driven Model Aggregation for Faster Convergence in Gossip Learning for
+  Heterogeneous Data
 publication_types:
-  - '2'
+  - '3'
 authors:
   - Abhirup Ghosh
   - Cecilia Mascolo
