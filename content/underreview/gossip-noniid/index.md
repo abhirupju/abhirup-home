@@ -39,5 +39,5 @@ image:
 summary: >-
   Proposes how to handle label skew in decentralized learning where the users
   connect peer to peer.
-date: 2022-02-24T00:18:26.212Z
+date: '2022-05-12sT00:18:26.212Z'
 ---
