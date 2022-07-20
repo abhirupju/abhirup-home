@@ -1,7 +1,7 @@
 ---
 title: Publishing Asynchronous Event Times with Pufferfish Privacy
 publication_types:
-  - "1"
+  - '1'
 authors:
   - Jiaxin Ding
   - Abhirup Ghosh
@@ -12,7 +12,8 @@ author_notes:
   - Equal contribution
 publication: International Conference on Distributed Computing in Sensor Systems
 publication_short: DCOSS
-abstract: Publishing data from IoT devices raises concerns of leaking sensitive
+abstract: >-
+  Publishing data from IoT devices raises concerns of leaking sensitive
   information. In this paper we consider the scenario of publishing data on
   events with timestamps. We formulate three privacy issues, namely, whether one
   can tell if an event happened or not; whether one can nail down the timestamp
@@ -27,11 +28,15 @@ abstract: Publishing data from IoT devices raises concerns of leaking sensitive
   data which are suitable for aggregate queries.
 draft: false
 featured: true
+tags:
+  - Spatial Graph
+  - Differential Privacy
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: Uses pufferfish privacy framework to publish time-stamps of point
-  events and answer accurate interval quries.
+summary: >-
+  Uses pufferfish privacy framework to publish time-stamps of point events and
+  answer accurate interval quries.
 date: 2022-06-10T11:11:20.715Z
 ---
