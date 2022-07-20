@@ -29,14 +29,14 @@ abstract: >-
 draft: false
 featured: true
 tags:
-  - Temporal
-  - Statistical Privacy
+  - Temporal-data
+  - Statistical-privacy
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
 summary: >-
   Uses pufferfish privacy framework to publish time-stamps of point events and
-  answer accurate interval quries.
+  answer accurate interval queries.
 date: 2022-06-10T11:11:20.715Z
 ---

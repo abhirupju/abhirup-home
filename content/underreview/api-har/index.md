@@ -1,7 +1,5 @@
 ---
-title: >-
-  Investigating Domain agnostic Performance in Activity Recognition using
-  Accelerometer Data (Workshop)
+title: Less Data Can Be Better for Domain Generalization
 publication_types:
   - '3'
 authors:
@@ -9,36 +7,32 @@ authors:
   - Abhirup Ghosh
   - Cecilia Mascolo
 abstract: >-
-  Human activity recognition (HAR) models suffer significant performance
-  degradation when faced with data heterogeneity (device, users, environments)
-  at test time. Current approaches to this problem using domain adaptation or
-  transfer learning attempt to improve performance in one specific target
-  domain, often using data from that domain. Requiring access to data from the
-  target domain is limiting and cannot be generally assumed. In addition, there
-  is often no single target domain, but rather multiple ones arising from
-  different sources of data heterogeneity. One way to achieve good performance
-  in this setting would be to gather data from all potential domains the model
-  may encounter at deployment  this is generally infeasible.
-
-  This work presents the case for training models which are domain agnostic,
-  i.e., that generalise to unseen test domains. This requires a new way to
-  evaluate models; we discuss a regime called leave-datasets-out, and present a
-  benchmark for the task of HAR. Two state-of-the-art deep models in the
-  literature are tested; they significantly under-perform in unseen domains when
-  compared to their performance on seen domains. It is shown that under this new
-  evaluation regime, a simple model with an appropriate inductive bias performs
-  at least as well as two current deep models on the benchmark, with a p-value
-  in the order of 0.0005 and 0.13 when testing for a difference in mean
-  accuracy, whilst being at least 10 times faster to train.
+  Classical machine learning models face significant performance degradation
+  when tested on unseen test domains. Solutions in domain generalization aim to
+  solve this problem without access to data from the test distribution during
+  training, by increasing training data diversity or introducing certain
+  inductive biases into the training procedure. In either case, there is a
+  general consensus that more data is better for performance. We show that more
+  data does not always imply better performance on unseen domains. In this paper
+  we propose a data filtering method, using ideas from causality, to select a
+  subset of the training data to improve generalization and data efficiency
+  simultaneously. We find empirical evidence using both synthetic and real world
+  tabular datasets for regression problems. Using only 10\(\percent\) of the
+  dataset in training the method achieves a similar error in unseen test
+  distributions compared to when trained using the full dataset. This result
+  provides evidence to the counter-intuitive idea that in certain scenarios,
+  more data can be detrimental to out-of-distribution performance, whilst a
+  selected subset can in fact improve such performance. This result raises
+  questions which can help us better understand the problem of domain
+  generalization.
 draft: false
-featured: true
+featured: false
 tags:
-  - HAR
-  - Deep-learning
+  - Model-generalization
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: Generalizability of HAR models to unseen data distribution.
+summary: null
 date: '2022-07-08sT00:18:26.212Z'
 ---
