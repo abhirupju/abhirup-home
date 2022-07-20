@@ -17,14 +17,14 @@ main:
     url: '#experience'
     weight: 20
   - name: Publications
-    url: '#Publications'
+    url: '#publications'
     weight: 30
   - name: Contact
     url: '#contact'
     weight: 40
-  - name: Teaching
-    url: '#teaching'
-    weight: 50
+  #- name: Teaching
+  # url: '#teaching'
+  #  weight: 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
