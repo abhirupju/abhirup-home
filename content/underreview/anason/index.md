@@ -39,7 +39,7 @@ abstract: >-
   sensors. Furthermore, we achieve a speedup of 3.5X and a storage reduction of
   99.96\(\percent\) compared to finding the exact count.
 draft: false
-featured: true
+featured: false
 tags:
   - Topology
   - Spatial Graph
@@ -47,6 +47,8 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: Releasing differentially private ML models for data streams.
+summary: >-
+  Distributed query on moving objects using tools from differential topology and
+  Machine learning.
 date: '2022-07-08sT00:18:26.212Z'
 ---
