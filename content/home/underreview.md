@@ -23,4 +23,4 @@ design:
   columns: '2'
 ---
 
-{{% callout note %}} Quickly discover relevant content by [filtering publications](./underreview/). {{% /callout %}}
+<!-- {{% callout note %}} Quickly discover relevant content by [filtering publications](./underreview/). {{% /callout %}} -->
