@@ -6,12 +6,6 @@ title: Contact
 subtitle: null
 content:
   autolink: true
-  form:
-    provider: netlify
-    formspree:
-      id: null
-    netlify:
-      captcha: false
   email: ag2187@cam.ac.uk
   address:
     street: 15 JJ Thomson Ave
