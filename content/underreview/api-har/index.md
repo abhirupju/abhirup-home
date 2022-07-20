@@ -33,6 +33,6 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: null
+summary: Generalization to unknown test distribution improves when a model is
 date: '2022-07-08sT00:18:26.212Z'
 ---
