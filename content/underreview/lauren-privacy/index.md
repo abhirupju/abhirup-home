@@ -1,35 +1,36 @@
 ---
-title: Evaluating the Feasibility of Gossip Learning on Android Phones
+title: Continual and Sliding Window Release for Private Empirical Risk Minimization
 publication_types:
   - '3'
 authors:
   - Lauren Watson
   - Abhirup Ghosh
-  - Benedek
+  - Benedek Rozemberczki
   - Rik Sarkar
 abstract: >-
-  Training machine learning models on sensing data from edge devices has become
-  ubiquitous across application domains. A gossip learning system keeps the data
-  local to the origin devices and trains machine learning models where the
-  devices collaborate with others using peer-to-peer (P2P) communication. While
-  today's mobile phones and wearable devices are the primary sources of personal
-  sensing data, their computing and communication facilities make gossip
-  learning a practical possibility. Although recent literature has identified
-  gossip learning as an efficient and private system, this paper, for the first
-  time, evaluates it on real mobile phones with peer-to-peer communication. We
-  use 3 Android phones to learn an image classifier using the Cifar10 dataset.
-  Our system performance metrics evaluation identified memory as the bottleneck.
-  We also discuss the challenges of implementing a gossip learning system. Our
-  framework is a necessary step toward making gossip learning systems a reality
+  It is difficult to continually update private machine learning models with new
+  data while maintaining privacy. Data incur increasing privacy loss – as
+  measured by differential privacy - when they are used in repeated
+  computations. In this paper, we describe regularized empirical risk
+  minimization algorithms that continually release models for a recent window of
+  data. One version of the algorithm uses the entire data history to improve the
+  model for the recent window. The second version uses a sliding window of
+  constant size to improve the model, ensuring more relevant models in case of
+  evolving data. The algorithms operate in the framework of stochastic gradient
+  descent. We prove that even with releasing a model at each time-step over an
+  infinite time horizon, the privacy cost of any data point is bounded by a
+  constant \(\epsilon\) differential privacy, and the accuracy of the output
+  models are close to optimal. Experiments on MNIST and Arxiv publications data
+  show results consistent with the theory.
 draft: false
 featured: true
 tags:
-  - Gossip Learning
-  - Supervised Project
+  - Statistical Privacy
+  - Machine Learning
 image:
   filename: featured
   focal_point: Smart
   preview_only: false
-summary: Evaluates if today's smartphones are capable of running gossip learning.
-date: '2022-07-15sT00:18:26.212Z'
+summary: Releasing differentially private ML models for data streams.
+date: '2022-03-07sT00:18:26.212Z'
 ---
