@@ -33,7 +33,8 @@ abstract: >-
 draft: false
 featured: true
 tags:
-  - Gossip Learning
+  - Gossip-learning
+  - Deep-learning
 image:
   filename: featured
   focal_point: Smart

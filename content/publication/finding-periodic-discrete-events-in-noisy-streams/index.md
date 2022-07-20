@@ -27,8 +27,7 @@ abstract: >-
 draft: false
 featured: true
 tags:
-  - Temporal
-  - Particle Filter
+  - Temporal-data
 slides: cikm2017.pptx
 image:
   filename: ''

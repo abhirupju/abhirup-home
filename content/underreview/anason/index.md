@@ -42,7 +42,8 @@ draft: false
 featured: false
 tags:
   - Topology
-  - Spatial Graph
+  - Spatial-data
+  - Supervised-project
 image:
   filename: featured
   focal_point: Smart

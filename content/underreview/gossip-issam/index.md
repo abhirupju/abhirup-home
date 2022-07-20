@@ -1,5 +1,5 @@
 ---
-title: Evaluating the Feasibility of Gossip Learning on Android Phones
+title: Evaluating the Feasibility of Gossip Learning on Android Phones (Workshop)
 publication_types:
   - '3'
 authors:
@@ -24,8 +24,9 @@ abstract: >-
 draft: false
 featured: true
 tags:
-  - Gossip Learning
-  - Supervised Project
+  - Gossip-learning
+  - Deep-learning
+  - Supervised-project
 image:
   filename: featured
   focal_point: Smart

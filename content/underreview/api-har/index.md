@@ -1,7 +1,7 @@
 ---
 title: >-
   Investigating Domain agnostic Performance in Activity Recognition using
-  Accelerometer Data
+  Accelerometer Data (Workshop)
 publication_types:
   - '3'
 authors:
@@ -34,7 +34,7 @@ draft: false
 featured: true
 tags:
   - HAR
-  - Deep Learning
+  - Deep-learning
 image:
   filename: featured
   focal_point: Smart

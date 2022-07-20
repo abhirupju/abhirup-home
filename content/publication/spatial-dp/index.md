@@ -41,8 +41,8 @@ title: Differentially Private Range Counting in Planar Graphs for Spatial Sensin
 doi: 'https://ieeexplore.ieee.org/document/9155480'
 featured: true
 tags:
-  - Graph
-  - Statistical Privacy
+  - Spatial-data
+  - Statistical-privacy
 projects: []
 image:
   caption: ''

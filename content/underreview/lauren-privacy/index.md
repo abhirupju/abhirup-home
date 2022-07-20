@@ -24,9 +24,10 @@ abstract: >-
   show results consistent with the theory.
 draft: false
 featured: true
+url_pdf: 'https://arxiv.org/pdf/2203.03594.pdf'
 tags:
-  - Statistical Privacy
-  - Machine Learning
+  - Statistical-privacy
+  - Machine-learning
 image:
   filename: featured
   focal_point: Smart
