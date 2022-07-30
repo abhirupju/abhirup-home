@@ -2,8 +2,9 @@
 title: Abhirup Ghosh
 role: Research Associate
 avatar_filename: profile3.jpg
-bio: My research interests include distributed machine learning, mobile
-  computing and statistical privacy.
+bio: >-
+  My research interests include distributed machine learning, mobile computing
+  and statistical privacy.
 interests:
   - Machine Learning
   - Mobility Analysis
@@ -11,35 +12,36 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: email:ag2187@cam.ac.uk
+    link: 'email:ag2187@cam.ac.uk'
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=JY7HrcQAAAAJ&hl=en
+    link: 'https://scholar.google.com/citations?user=JY7HrcQAAAAJ&hl=en'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/abhirup-ghosh-cs/
+    link: 'https://www.linkedin.com/in/abhirup-ghosh-cs/'
 organizations:
-  - name: Department of Computer Science and Technology, University of Cambridge
-    url: https://www.cst.cam.ac.uk/
+  - name: 'Department of Computer Science and Technology, University of Cambridge'
+    url: 'https://www.cst.cam.ac.uk/'
 education:
   courses:
     - course: PhD in Computer Science
       institution: University of Edinburgh
       year: 2019
     - course: M.Tech in Technology in Computer Science
-      institution: Indian Institute of Technology, Bombay
+      institution: 'Indian Institute of Technology, Bombay'
       year: 2011
     - course: Bachelor in Information Technology
-      institution: Jadavpur University, India
+      institution: 'Jadavpur University, India'
       year: 2009
-email: ""
+email: ''
 superuser: true
 highlight_name: true
 ---
-I'm looking for a permanent position, please contact me if you know of one.
 
-I design privacy-preserving machine learning systems to extract abstract knowledge from massive and noisy spatio-temporal sensing data recorded in edge devices like mobile phones. Currently, I'm interested in fully decentralized machine learning systems for edge devices. I use tools from Computational Geometry, Algebraic Topology, Data Mining, Statistics, and Machine Learning.
+I'm looking for a permanent academic position.
 
-Currently, I am part of the [Mobile Systems Research Lab](https://mobile-systems.cl.cam.ac.uk/index.html) at the Department of Computer Science and Technology, University of Cambridge. I am working on the MEDEA project funded by the Wellcome Trust to detect Alzheimer's disease using outdoor mobility and sleep data. I got my PhD in Sep-2019 from the School of Informatics at the University of Edinburgh under [Dr Rik Sarkar](http://homepages.inf.ed.ac.uk/rsarkar/) in "Machine Learning and Privacy Preserving Algorithms for Spatial and Temporal Sensing". I was a Research Associate in the Department of Computing, Imperial College London under [Dr Thomas Heinis](http://wp.doc.ic.ac.uk/theinis/) (till Sep-2020).
+I am primarily interested in machine learning to learn abstract knowledge from the sensing data recorded in so-called smart end devices like phones and wearables. In particular, my current focus is on building systems to collaboratively learn on the end-devices in an resource efficient and privacy preserving way.
+
+Currently, I am a Research Associate at the [Mobile Systems Research Lab](https://mobile-systems.cl.cam.ac.uk/index.html) in the Department of Computer Science and Technology, University of Cambridge. I am working on the MEDEA project funded by the Wellcome Trust to detect Alzheimer's disease using outdoor mobility and sleep data. I got my PhD in 2019 from the School of Informatics in the University of Edinburgh under [Dr Rik Sarkar](http://homepages.inf.ed.ac.uk/rsarkar/) in "Machine Learning and Privacy Preserving Algorithms for Spatial and Temporal Sensing". I was a Research Associate in the Department of Computing, Imperial College London under [Dr Thomas Heinis](http://wp.doc.ic.ac.uk/theinis/) (till 2020).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Abhirup_Ghosh_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.

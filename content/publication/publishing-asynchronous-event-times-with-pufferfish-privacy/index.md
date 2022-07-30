@@ -27,7 +27,7 @@ abstract: >-
   and app usage data. Our mechanisms preserve the statistical utility of event
   data which are suitable for aggregate queries.
 draft: false
-featured: true
+featured: false
 tags:
   - Temporal-data
   - Statistical-privacy

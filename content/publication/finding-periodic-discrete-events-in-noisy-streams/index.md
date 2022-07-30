@@ -25,7 +25,7 @@ abstract: >-
   existing methods in accuracy and can track changes in periodicity and other
   characteristics in dynamic event streams.
 draft: false
-featured: true
+featured: false
 tags:
   - Temporal-data
 slides: cikm2017.pptx
