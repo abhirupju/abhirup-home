@@ -11,6 +11,7 @@ authors:
   - Cecilia Mascolo
   - Michael Hornberger
 doi: 10.1038/s41598-022-06899-w
+publication: Nature Scientific Reports
 abstract: >-
   Impairment of navigation is one of the earliest symptoms of Alzheimer’s
   disease (AD), but to date, studies have involved proxy tests of navigation
