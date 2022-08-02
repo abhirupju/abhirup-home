@@ -22,7 +22,7 @@ main:
   - name: Under-Review
     url: '#underreview'
     weight: 40
-  - name: Patent
+  - name: Patents
     url: '#patents'
     weight: 50
   - name: Contact
