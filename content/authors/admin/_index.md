@@ -6,6 +6,7 @@ bio: >-
   My research interests include distributed machine learning, mobile computing
   and statistical privacy.
 interests:
+  - Distributed Machine Learning
   - Machine Learning
   - Mobility Analysis
   - Mobile Health
@@ -27,7 +28,7 @@ education:
     - course: PhD in Computer Science
       institution: University of Edinburgh
       year: 2019
-    - course: M.Tech in Technology in Computer Science
+    - course: M.Tech in Computer Science
       institution: 'Indian Institute of Technology, Bombay'
       year: 2011
     - course: Bachelor in Information Technology
