@@ -34,7 +34,7 @@ abstract: >-
   a signature can be locally and inexpensively updated and communicated by a
   mobile agent.
 draft: false
-featured: true
+featured: false
 tags:
   - Mobility
   - Topology

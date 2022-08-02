@@ -1,7 +1,7 @@
 ---
 widget: pages
 headless: true
-weight: 90
+weight: 110
 title: Patents
 subtitle: ''
 content:
