@@ -38,8 +38,6 @@ superuser: true
 highlight_name: true
 ---
 
-I'm looking for a permanent academic position.
-
 I am primarily interested in learning abstract knowledge from the sensing data recorded in so-called smart end devices like phones and wearables. In particular, my current focus is on building systems to collaboratively learn on the end-devices in an resource efficient and privacy preserving way in the light of Federated Learning and fully distributed Gossip Learning.
 
 Currently, I am a Research Associate at the [Mobile Systems Research Lab](https://mobile-systems.cl.cam.ac.uk/index.html) in the Department of Computer Science and Technology, University of Cambridge. I am working on the MEDEA project funded by the Wellcome Trust to detect Alzheimer's disease using outdoor mobility and sleep data. I got my PhD in 2019 from the School of Informatics in the University of Edinburgh under [Dr Rik Sarkar](http://homepages.inf.ed.ac.uk/rsarkar/) in "Machine Learning and Privacy Preserving Algorithms for Spatial and Temporal Sensing". I was a Research Associate in the Department of Computing, Imperial College London under [Dr Thomas Heinis](http://wp.doc.ic.ac.uk/theinis/) (till 2020).
