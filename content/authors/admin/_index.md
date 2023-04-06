@@ -36,14 +36,14 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-**Workshop:** I workshop  have organized  the workshop on [Using Mobiles and Wearables for Public Health](https://www.cph.cam.ac.uk/events/using-mobiles-and-wearables-public-health) in association with Cambridge Public Health and [Precision Health Initiative](https://www.precisionhealth.cam.ac.uk/). The videos are here:
+I﻿'m soon going to join [School of Computer Science](https://www.birmingham.ac.uk/schools/computer-science/index.aspx), [University of Birmingham](https://www.birmingham.ac.uk/index.aspx) as an Assistant Professor and I'll start to look for PhD students. Please contact me if you are interested.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLaN43Mw_sLQC0ij07yNPK2FUufWhD3SKW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-I﻿'m soon going to join School of Computer Science, University of Birmingham as an Assistant Professor.
-
-I am primarily interested in learning abstract knowledge from the sensing data recorded in so-called smart end devices like phones and wearables. In particular, my current focus is on building systems to collaboratively learn on the end-devices in an resource efficient and privacy preserving way in the light of Federated Learning and fully distributed Gossip Learning.
+I am primarily interested in learning abstract knowledge from the sensing data recorded in so-called smart end devices like phones and wearables. In particular, my current focus is on building systems to collaboratively learn on the end-devices in an resource efficient and privacy preserving way in the light of Federated Learning and fully distributed Gossip Learning. I'm interested in various types of applications: mobility, graph analysis, and mobile-health.
 
 I am a Senior Research Associate at the [Mobile Systems Research Lab](https://mobile-systems.cl.cam.ac.uk/index.html) in the Department of Computer Science and Technology, University of Cambridge. I am working on the MEDEA project funded by the Wellcome Trust to detect Alzheimer's disease using outdoor mobility and sleep data. I got my PhD in 2019 from the School of Informatics in the University of Edinburgh under [Dr Rik Sarkar](http://homepages.inf.ed.ac.uk/rsarkar/) in "Machine Learning and Privacy Preserving Algorithms for Spatial and Temporal Sensing". I was a Research Associate in the Department of Computing, Imperial College London under [Dr Thomas Heinis](http://wp.doc.ic.ac.uk/theinis/) (till 2020).
+
+**Workshop:** I  have organized  the workshop on [Using Mobiles and Wearables for Public Health](https://www.cph.cam.ac.uk/events/using-mobiles-and-wearables-public-health) in association with [Cambridge Public Health](https://www.cph.cam.ac.uk/) and [Precision Health Initiative](https://www.precisionhealth.cam.ac.uk/). The video for my talk is here:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VHORLuZvpgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Abhirup_Ghosh_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
