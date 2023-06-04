@@ -11,7 +11,7 @@ main:
   #  url: '#posts'
   #  weight: 20
   - name: News
-    url: '#news'
+    url: '#updates'
     weight: 20
   - name: Experience
     url: '#experience'
