@@ -3,10 +3,10 @@ draft: false
 active: true
 widget: pages
 date: 2022-06-10T00:00:00.000Z
-section_id: 20
-widget_id: News
+section_id: 21
+widget_id: Teaching
 weight: 20
-title: News
+title: Recent Teaching
 design:
   columns: '1'
 ---
