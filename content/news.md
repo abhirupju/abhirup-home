@@ -6,8 +6,6 @@ type: landing
 sections:
   - block: markdown
     content:
-      title: ''
-      subtitle: ''
       text: |2-
         * April 2023: Our paper on early detection of Alzheimer's from outdoor mobility data has won the best publication of the year from the Department of Computer Science, University of Cambridge.
         * April 2023: Our paper on cross-device federated learning for mobile health got accepted in ICASP-2023.
