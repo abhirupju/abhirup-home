@@ -1,6 +1,6 @@
 ---
 active: true
-widget: pages
+widget: portfolio
 title: News
 design:
   columns: '1'
