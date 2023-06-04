@@ -13,6 +13,7 @@ experience:
     location: 'Birmingham, UK'
     date_start: '2023-05-10'
     date_end: ''
+    description: ''
   - title: Senior Research Associate
     company: University of Cambridge
     company_url: 'https://www.cst.cam.ac.uk/'
@@ -24,7 +25,7 @@ experience:
         * Project: Early diagnosis of Alzheimer’s Disease using sensing data from mobile
         phones. 
         * I was fortunate to be part of [Mobile Systems Research Lab](https://mobile-systems.cl.cam.ac.uk/index.html) at the Department of Computer Science and Technology, University of Cambridge under [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/)
-  - title: Senior Research Associate
+  - title: Research Associate
     company: Imperial College London
     company_url: ''
     company_logo: imperial
