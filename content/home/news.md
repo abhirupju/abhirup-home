@@ -5,8 +5,8 @@ widget: pages
 date: 2022-06-10T00:00:00.000Z
 section_id: 21
 widget_id: Teaching
-weight: 20
-title: Recent Teaching
+weight: 35
+title: News
 design:
   columns: '1'
 ---
