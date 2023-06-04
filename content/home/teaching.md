@@ -1,11 +1,11 @@
 ---
 draft: false
-active: false
+active: true
 widget: pages
 date: 2022-06-10T00:00:00.000Z
-section_id: 40
+section_id: 90
 widget_id: Teaching
-weight: 40
+weight: 90
 title: Recent Teaching
 design:
   columns: '1'
