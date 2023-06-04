@@ -1,12 +1,14 @@
 ---
 title: >-
-  Data-driven Model Aggregation for Faster Convergence in Gossip Learning for
-  Heterogeneous Data
+  Modeling with Homophily Driven Heterogeneous Data in Gossip Learning
 publication_types:
   - '3'
 authors:
   - Abhirup Ghosh
   - Cecilia Mascolo
+doi: awaiting
+publication: International Joint Conference on Artificial Intelligence
+publication_short: IJCAI
 abstract: >-
   Training deep learning models on data distributed and kept local on edge
   devices such as mobile phones is a prominent recent research direction. In a
@@ -42,5 +44,5 @@ image:
 summary: >-
   Proposes how to handle label skew in decentralized learning where the users
   connect peer to peer.
-date: '2022-05-12sT00:18:26.212Z'
+date: '2023-08-22'
 ---
