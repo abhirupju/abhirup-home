@@ -2,7 +2,7 @@
 title: Abhirup Ghosh
 role: Assistant Professor
 avatar_filename: profile3.jpg
-bio: My research interests include distributed machine learning, mobile
+bio: My research interests are distributed machine learning, mobile
   computing and statistical privacy.
 interests:
   - Distributed Machine Learning
@@ -19,8 +19,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/abhirup-ghosh-cs/
 organizations:
-  - name: Department of Computer Science and Technology, University of Cambridge
-    url: https://www.cst.cam.ac.uk/
+  - name: School of Computer Science, University of Birmingham
+    url: https://www.birmingham.ac.uk/schools/computer-science/index.aspx
 education:
   courses:
     - course: PhD in Computer Science
@@ -38,9 +38,9 @@ highlight_name: true
 ---
 I﻿  am an  Assistant Professor at the [School of Computer Science](https://www.birmingham.ac.uk/schools/computer-science/index.aspx), [University of Birmingham](https://www.birmingham.ac.uk/index.aspx) I'll soon start to look for PhD students. Please contact me if you are interested.
 
-I am primarily interested in learning from the sensing data recorded in phones and wearables. In particular, my current focus is on building systems to collaboratively learn in an resource efficient and privacy preserving way in the light of Federated Learning and fully distributed Gossip Learning. I'm interested in various types of applications: mobility, graph analysis, and mobile-health.
+My interest is to learn sensing data recorded in phones and wearables. In particular, building systems to collaboratively learn in a resource efficient and privacy preserving way using Federated Learning and fully distributed Gossip Learning. I'm interested in various types of applications: graph analysis, mobile-health, and mobility.
 
-I was a Senior Research Associate at the [Mobile Systems Research Lab](https://mobile-systems.cl.cam.ac.uk/index.html)Department of Computer Science and Technology, University of Cambridge under [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/).
+<!--I was a Senior Research Associate at the [Mobile Systems Research Lab](https://mobile-systems.cl.cam.ac.uk/index.html)Department of Computer Science and Technology, University of Cambridge under [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/).
 
 I worked on detecting Alzheimer's disease using outdoor mobility and sleep data. I got my PhD in 2019 from the School of Informatics in the University of Edinburgh under [Dr Rik Sarkar](http://homepages.inf.ed.ac.uk/rsarkar/) in "Machine Learning and Privacy Preserving Algorithms for Spatial and Temporal Sensing". I was also a Research Associate in the Department of Computing, Imperial College London under [Dr Thomas Heinis](http://wp.doc.ic.ac.uk/theinis/).
 
@@ -49,3 +49,4 @@ I worked on detecting Alzheimer's disease using outdoor mobility and sleep data.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VHORLuZvpgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Abhirup_Ghosh_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+--!>
