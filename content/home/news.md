@@ -10,7 +10,6 @@ content:
   offset: 0
   order: desc
 design:
-  view: citation
   columns: '1'
 ---
 
