@@ -36,13 +36,21 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I﻿  am an  Assistant Professor at the [School of Computer Science](https://www.birmingham.ac.uk/schools/computer-science/index.aspx), [University of Birmingham](https://www.birmingham.ac.uk/index.aspx) I'll soon start to look for PhD students. Please contact me if you are interested.
+I﻿  am an  Assistant Professor at the [School of Computer Science](https://www.birmingham.ac.uk/schools/computer-science/index.aspx), [University of Birmingham](https://www.birmingham.ac.uk/index.aspx) and a visiting researcher at the [Mobile Systems Research Lab](https://mobile-systems.cl.cam.ac.uk/index.html)Department of Computer Science and Technology, University of Cambridge.
 
 My interest is to learn sensing data recorded in phones and wearables. In particular, building systems to collaboratively learn in a resource efficient and privacy preserving way using Federated Learning and fully distributed Gossip Learning. I'm interested in various types of applications: graph analysis, mobile-health, and mobility.
 
-<!--I was a Senior Research Associate at the [Mobile Systems Research Lab](https://mobile-systems.cl.cam.ac.uk/index.html)Department of Computer Science and Technology, University of Cambridge under [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/).
+<b>Recent Research News:</b>
+* Jun-2023: Workshop paper from Evelyn (MSc project at Cambridge) is accepted in FL workshop in KDD-2023.
+* May-2023: Our conference paper on distributed spatial data management is accepted in EDBT-2024.
+* Apr-2023: Our paper on Gossip Learning is accepted in IJCAI-2023.
+* Apr-2023: Our paper on Early detection of Alzheimer's Disease has won the best publication of the year (2022) award from the Department of Computer Science and Technology, University of Cambridge [link](https://us19.campaign-archive.com/?u=419af8f3d81cb9d44999cdbb1&id=b33ec45ba2).
+* Mar-2022: I have organized a workshop on [Using Mobiles and Wearables for Public Health](https://www.cph.cam.ac.uk/events/using-mobiles-and-wearables-public-health) in association with [Cambridge Public Health](https://www.cph.cam.ac.uk/) and [Precision Health Initiative](https://www.precisionhealth.cam.ac.uk/).
 
-I worked on detecting Alzheimer's disease using outdoor mobility and sleep data. I got my PhD in 2019 from the School of Informatics in the University of Edinburgh under [Dr Rik Sarkar](http://homepages.inf.ed.ac.uk/rsarkar/) in "Machine Learning and Privacy Preserving Algorithms for Spatial and Temporal Sensing". I was also a Research Associate in the Department of Computing, Imperial College London under [Dr Thomas Heinis](http://wp.doc.ic.ac.uk/theinis/).
+
+<!-- I was a Senior Research Associate at the [Mobile Systems Research Lab](https://mobile-systems.cl.cam.ac.uk/index.html)Department of Computer Science and Technology, University of Cambridge under [Prof. Cecilia Mascolo](https://www.cl.cam.ac.uk/~cm542/).
+
+ I worked on detecting Alzheimer's disease using outdoor mobility and sleep data. I got my PhD in 2019 from the School of Informatics in the University of Edinburgh under [Dr Rik Sarkar](http://homepages.inf.ed.ac.uk/rsarkar/) in "Machine Learning and Privacy Preserving Algorithms for Spatial and Temporal Sensing". I was also a Research Associate in the Department of Computing, Imperial College London under [Dr Thomas Heinis](http://wp.doc.ic.ac.uk/theinis/).
 
 **Workshop:** I  have organized  the workshop on [Using Mobiles and Wearables for Public Health](https://www.cph.cam.ac.uk/events/using-mobiles-and-wearables-public-health) in association with [Cambridge Public Health](https://www.cph.cam.ac.uk/) and [Precision Health Initiative](https://www.precisionhealth.cam.ac.uk/). The video for my talk is here:
 
