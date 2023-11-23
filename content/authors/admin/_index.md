@@ -8,6 +8,7 @@ interests:
   - Distributed Machine Learning
   - Mobility Analysis
   - Mobile Health
+  - Software Engineering
 social:
   - icon: envelope
     icon_pack: fas
