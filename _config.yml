@@ -1,0 +1,11 @@
+# Jekyll Configuration
+title: Abhirup's Site
+description: Redirect to main site
+
+# Build settings
+markdown: kramdown
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - README.md
